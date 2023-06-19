@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba ben İlayda Küçük</h1>
-<h3 align="center">Başkent Üniversitesi Yönetim Bilişim Sistemleri 3.sınıf öğrencisiyim. Şu anda özel bir şirkette mobil uygulama geliştirme üzerine staj yapıyorum. end developer from India</h3>
+<h3 align="center">Başkent Üniversitesi Yönetim Bilişim Sistemleri 3.sınıf öğrencisiyim. Şu anda özel bir şirkette mobil uygulama geliştirme üzerine staj yapıyorum.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
